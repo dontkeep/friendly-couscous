@@ -133,4 +133,4 @@ int main (){
   kMeansClustering(&points, 150, 5);
 }
 
-
+//reference : https://reasonabledeviations.com/2019/10/02/k-means-in-cpp/
